@@ -48,7 +48,7 @@ print(fkmap, vp = grid::viewport(0.8, 0.85, width = 0.2, height = 0.45))
 
 
 #using ggmap
-register_google(key = "AIzaSyAkeuk6mU8DMSRteuPvF10xF5PWJSjvkM4", write = T)
+register_google(key = "", write = T)
 library(ggmap)
 library(ggthemes)
 library(ggrepel)
